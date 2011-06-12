@@ -1,0 +1,10 @@
+toolchain, initramfs and scripts to help you build your kernel
+build environment should be:
+[build-folder]
+    /sgs-kernel
+    /initramfs
+    /arm-eabi
+    build.sh
+    clean.sh
+
+to build the kernel, put your version inside build.sh and execute ./build.sh from your [build-folder]
