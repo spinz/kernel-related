@@ -7,4 +7,8 @@ build environment should be:
     build.sh
     clean.sh
 
+initramfs scmversions:
+-I9000XXJVP-CL264642
+-I9000XXJVQ-CL281085
+
 to build the kernel, put your version inside build.sh and execute ./build.sh from your [build-folder]
